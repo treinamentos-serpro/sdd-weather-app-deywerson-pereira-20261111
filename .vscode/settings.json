@@ -12,5 +12,6 @@
     "editor.defaultFormatter": "biomejs.biome"
   },
   "files.eol": "\n",
-  "chat.promptFiles": true
+  "chat.promptFiles": true,
+  "github.copilot.chat.agentDebugLog.fileLogging.enabled": true
 }
